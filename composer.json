@@ -1,0 +1,16 @@
+{
+    "name": "dev-pro_test/config",
+    "description": "phptest",
+    "authors": [
+        {
+            "name": "Vladimir Marakhovskiy",
+            "email": "Fly_life@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "liw\\": ""
+        }
+    }
+}
